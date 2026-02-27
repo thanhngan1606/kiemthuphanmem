@@ -93,5 +93,3 @@ Sau khi chạy test, kết quả sẽ được lưu tại:
 - Video: `cypress/videos/`
 - Screenshots (nếu test fail): `cypress/screenshots/`
 
-## Tác giả
-Bài tập thực hành môn Kiểm thử phần mềm
