@@ -1,0 +1,19 @@
+# JMeter generated files
+*.jtl
+*.log
+jmeter.log
+
+# HTML Reports
+html-report/
+report/
+
+# Large result files (keep CSV for submission)
+# results.csv can be committed if small
+
+# Backup files
+*.jmx~
+*.bak
+
+# OS files
+.DS_Store
+Thumbs.db
